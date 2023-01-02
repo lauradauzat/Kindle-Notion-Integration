@@ -33,3 +33,8 @@ That being said, it’s been found that 67 1/2 inches from tweeter to tweeter at
 
 Monitors that are mounted directly
 ==========
+﻿grokking-algorithms-illustrated-programmers-curious (Laura Dauzat)
+- Your Highlight on Location 150-154 | Added on Monday, January 2, 2023 5:15:04 PM
+
+The good news is, an implementation of every algorithm in this book is probably available in your favorite language, so you don’t have to write each algorithm yourself! But those implementations are useless if you don’t understand the trade-offs. In this book, you’ll learn to compare trade-offs between different algorithms: Should you use merge sort or quicksort? Should you use an array or a list? Just using a different data structure can make a big difference.
+==========
