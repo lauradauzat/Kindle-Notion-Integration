@@ -1,4 +1,6 @@
 const { Client } = require("@notionhq/client")
+var fs = require("fs");
+
 
 const notion= new Client({auth: process.env.NOTION_API_KEY})
 
@@ -9,7 +11,7 @@ async function getDatabase() {
 
 getDatabase()
 
-const myClippings = require('./KindleHighlights.json')
+//const myClippings = require('./KindleHighlights.json')
 
 //console.log(myClippings); 
 
@@ -30,6 +32,15 @@ function createHighlights(highlights) {
                   },
                 ],
               },
+            [process.env.NOTION_AUTHOR_ID] : {
+                rich_text: [
+                    {
+                        text: {
+                            content: highlights.author,
+                        }
+                    }
+                ]
+            },  
         },
 
         children: [
@@ -64,22 +75,42 @@ function createHighlights(highlights) {
     })
 }
 
-createHighlights({
-    title: myClippings[0].BookTitle, 
-    heading: 'Hightlights',
-    content: myClippings[0].Content,
-});
+
 
 const kindleClippings = require('@darylserrano/kindle-clippings');
 
-const exampleEntry = `test entry(Jean Michel)
-- La subrayado en la página 6 | posición 36-40 | Añadido el lunes, 30 de septiembre de 2019 18:00:39
 
-Contenteoiueoiueoiueoiuoeiuoeiuoeiuoiu
-==========`;
 
-let entries = kindleClippings.readKindleClipping(exampleEntry);
+
+
+
+var clippingsText = fs.readFileSync("./My Clippings.txt").toString('utf-8');
+
+console.log(clippingsText)
+
+let entries = kindleClippings.readKindleClipping(clippingsText);
 let parsedEntries = kindleClippings.parseKindleEntries(entries);
-console.log(JSON.stringify(parsedEntries[0].toJSON()));
-var entriesParsed =
-  kindleClippings.organizeKindleEntriesByBookTitle(parsedEntries);
+
+//console.log(JSON.stringify(parsedEntries[0].toJSON()));
+
+
+var entriesParsed = kindleClippings.organizeKindleEntriesByBookTitle(parsedEntries);
+
+entriesParsed.forEach(el => {
+    console.log('new entry');
+    console.log(el[0]);
+     createHighlights({
+        title: el[0].bookTile, 
+        author: el[0].authors,
+        heading: 'Hightlights',
+        content: el[0].content,
+    });
+ });
+
+
+
+//  createHighlights({
+//     title: myClippings[0].BookTitle, 
+//     heading: 'Hightlights',
+//     content: myClippings[0].Content,
+// });
