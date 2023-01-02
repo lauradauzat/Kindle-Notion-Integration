@@ -11,9 +11,7 @@ async function getDatabase() {
 
 getDatabase()
 
-//const myClippings = require('./KindleHighlights.json')
 
-//console.log(myClippings); 
 
 
 function createHighlights(highlights) {
@@ -80,37 +78,42 @@ function createHighlights(highlights) {
 const kindleClippings = require('@darylserrano/kindle-clippings');
 
 
-
-
-
-
 var clippingsText = fs.readFileSync("./My Clippings.txt").toString('utf-8');
 
-console.log(clippingsText)
+//console.log(clippingsText)
 
 let entries = kindleClippings.readKindleClipping(clippingsText);
+
 let parsedEntries = kindleClippings.parseKindleEntries(entries);
+
 
 //console.log(JSON.stringify(parsedEntries[0].toJSON()));
 
 
 var entriesParsed = kindleClippings.organizeKindleEntriesByBookTitle(parsedEntries);
 
-entriesParsed.forEach(el => {
-    console.log('new entry');
-    console.log(el[0]);
+entriesParsed.forEach(books => {
+    var thisBookHighlights = '';
+    console.log('-------------');
+    console.log(books[0].bookTile);
+    console.log(books[0].authors);
+    books.forEach(hl => {
+        console.log('+++++++++++');
+        console.log(hl.content)
+        thisBookHighlights +=
+        `
+        ${hl.dateOfCreation}
+        ${hl.location}
+        ${hl.content}
+        `
+    })
+    
      createHighlights({
-        title: el[0].bookTile, 
-        author: el[0].authors,
+        title: books[0].bookTile, 
+        author: books[0].authors,
         heading: 'Hightlights',
-        content: el[0].content,
+        content: thisBookHighlights,
     });
  });
 
 
-
-//  createHighlights({
-//     title: myClippings[0].BookTitle, 
-//     heading: 'Hightlights',
-//     content: myClippings[0].Content,
-// });
