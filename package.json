@@ -13,6 +13,7 @@
   "dependencies": {
     "@darylserrano/kindle-clippings": "^2.2.5",
     "dotenv": "^16.0.3",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.0"
   }
 }
