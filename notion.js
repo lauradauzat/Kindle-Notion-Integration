@@ -1,5 +1,6 @@
 const { Client } = require("@notionhq/client");
-const fetch = require('node-fetch')
+
+
 
 var fs = require("fs");
 const notion= new Client({auth: process.env.NOTION_API_KEY});
@@ -309,10 +310,11 @@ var entriesParsed = kindleClippings.organizeKindleEntriesByBookTitle(parsedEntri
  }
   
  async function getBookCover(title) {
-  const searchUrl = await `https://openlibrary.org/search.json?title=${encodeURIComponent(title)}`;
+  const searchUrl =  `https://openlibrary.org/search.json?title=${encodeURIComponent(title)}`;
   //console.log(searchUrl);
   try {
-    const response = await fetch(searchUrl);
+
+    let response = await fetch(searchUrl);
     const data = await response.json();
     const firstResult = data.docs[0];
     
