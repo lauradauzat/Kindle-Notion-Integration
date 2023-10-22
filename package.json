@@ -12,8 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "@darylserrano/kindle-clippings": "^2.2.5",
+    "@notionhq/client": "^2.2.13",
     "dotenv": "^16.0.3",
+    "express": "^4.18.2",
     "fs": "^0.0.1-security",
-    "node-fetch": "^3.3.0"
+    "node-fetch": "^3.3.2"
   }
 }
