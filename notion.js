@@ -68,22 +68,60 @@ function createHighlights(highlights) {
       },
     }
     
-   
+    let quoteBlocks = [illustration, heading];
 
-      const quoteBlocks = [illustration, heading, ...highlightsContent.map((highlight) => ({
-        object: "block",
-        type: "quote",
-        quote: {
-          rich_text: [
-            {
-              type: "text",
-              text: {
-                content: highlight,
+    for (const highlight of highlightsContent) {
+      if (highlight.length <= 2000) {
+        quoteBlocks.push({
+          object: "block",
+          type: "quote",
+          quote: {
+            rich_text: [
+              {
+                type: "text",
+                text: {
+                  content: highlight,
+                },
               },
+            ],
+          },
+        });
+      } else {
+        // If the highlight is longer than 2000 characters, split it
+        const segments = highlight.match(/.{1,2000}/g);
+        segments.forEach((segment) => {
+          quoteBlocks.push({
+            object: "block",
+            type: "quote",
+            quote: {
+              rich_text: [
+                {
+                  type: "text",
+                  text: {
+                    content: segment,
+                  },
+                },
+              ],
             },
-          ],
-        },
-      }))]; 
+          });
+        });
+      }
+    }
+
+      // const quoteBlocks = [illustration, heading, ...highlightsContent.map((highlight) => ({
+      //   object: "block",
+      //   type: "quote",
+      //   quote: {
+      //     rich_text: [
+      //       {
+      //         type: "text",
+      //         text: {
+      //           content: highlight,
+      //         },
+      //       },
+      //     ],
+      //   },
+      // }))]; 
 
    
 
@@ -127,49 +165,71 @@ function createHighlights(highlights) {
     })
   }
 
- async function updateHighLights(highlights, bookId) {
-    //console.log(highlights)
-
-   const highlightsContent = highlights.content 
-
-   //ignore highlight that already exist 
-
-
-   for (const highlight of highlightsContent) {
-    const result = await quoteAlreadyExist(bookId, highlight);
-
-     console.log(result);
-      if (result === undefined) {
-           console.log('appending new highlight ! ');
+  async function updateHighLights(highlights, bookId) {
+    const highlightsContent = highlights.content;
+  
+    for (const highlight of highlightsContent) {
+      if (highlight.length <= 2000) {
+        const result = await quoteAlreadyExist(bookId, highlight);
+        console.log(result);
+        if (result === undefined) {
+          console.log('appending new highlight !');
+          const response = await notion.blocks.children.append({
+            block_id: bookId,
+            children: [
+              {
+                object: 'block',
+                type: 'quote',
+                quote: {
+                  rich_text: [
+                    {
+                      type: 'text',
+                      text: {
+                        content: highlight,
+                      },
+                    },
+                  ],
+                },
+              },
+            ],
+          });
+        } else {
+          console.log('All highlight already on Notion !');
+        }
+      } else {
+        // If the highlight is longer than 2000 characters, split it
+        const segments = highlight.match(/.{1,2000}/g);
+        for (const segment of segments) {
+          const result = await quoteAlreadyExist(bookId, segment);
+          console.log(result);
+          if (result === undefined) {
+            console.log('appending new highlight segment!');
             const response = await notion.blocks.children.append({
-                block_id: bookId,
-                children: [
+              block_id: bookId,
+              children: [
                 {
-                    object: 'block',
-                    type: 'quote',
-                    quote: {
+                  object: 'block',
+                  type: 'quote',
+                  quote: {
                     rich_text: [
-                        {
+                      {
                         type: 'text',
                         text: {
-                            content: highlight,
+                          content: segment,
                         },
-                        },
+                      },
                     ],
-                    },
+                  },
                 },
-                ],
+              ],
             });
-            //console.log(response);
-        } else {
-            console.log('All highlight already on Notion ! ');
+          } else {
+            console.log('All highlight segments already on Notion!');
+          }
         }
-      
-   }
-   
-      
-    
-}
+      }
+    }
+  }
 
 //console.log(clippingsText)
 

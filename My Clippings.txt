@@ -1,40 +1,345 @@
-﻿Bobby Owsinski - The Mixing Engineer's Handbook-Cengage Learning PTR (2013) (Owsinski)
-- Your Highlight on Location 197-199 | Added on Thursday, December 29, 2022 5:24:41 PM
+Churchill, Walking with destiny (Andrew Roberts)
+- Your Highlight on Location 2340-2341 | Added on Tuesday, January 10, 2023 4:33:18 PM
 
-have decreased significantly, the number of major studio facilities has dropped to just a handful in each major media center, and the rise of the digital audio workstation has made it possible for just about
+springing from a naïve simplicity of character pervades all classes.’90 The King had asked Churchill to write to him about his
 ==========
-﻿C'est la fin de la programmation telle que nous la connaissons (www.zdnet.fr)
-- Your Highlight on Location 23-27 | Added on Saturday, December 31, 2022 6:16:20 PM
+﻿Churchill, Walking with destiny (Andrew Roberts)
+- Your Highlight on Location 2611-2611 | Added on Thursday, January 12, 2023 8:17:00 AM
 
-Quel sera alors le rôle exact des professionnels de l’informatique et des développeurs ? Vlad Catrinescu estime que la nouvelle génération de solutions de développement automatisé ou low code « permet aux professionnels de l’informatique et aux développeurs de travailler sur des applications plus complexes. Les départements informatiques peuvent se concentrer sur les applications d’entreprise et sur la création d’applications et d’automatismes compliqués qui apporteront une grande valeur ajoutée à l’entreprise ».
+very Tory Democrat measure, giving Government the power to
 ==========
-﻿J_D_Salinger_-_The_Catcher_in_the_Rye (Laura Dauzat)
-- Your Highlight on Location 252-253 | Added on Monday, January 2, 2023 11:55:10 AM
+﻿Churchill, Walking with destiny (Andrew Roberts)
+- Your Note on Location 2864 | Added on Thursday, January 12, 2023 9:03:53 AM
 
-Where I lived at Pencey, I lived in the Ossenburger Memorial Wing of the new dorms. It was only for juniors and seniors. I was a junior. My roommate was a senior. It was named after this guy Ossenburger that went to Pencey. He made a pot of dough in the undertaking business
+Churchill wanted people to avoid prison as much as possible, and if it couldn't be avoided, to be treated with decency 
 ==========
-﻿Bobby Owsinski - The Mixing Engineer's Handbook-Cengage Learning PTR (2013) (Owsinski)
-- Your Note on Location 559 | Added on Monday, January 2, 2023 2:46:12 PM
+﻿Churchill, Walking with destiny (Andrew Roberts)
+- Your Highlight on Location 2863-2864 | Added on Thursday, January 12, 2023 9:03:53 AM
 
-Test de rajoit de notess
+Churchill also searched for alternative punishments for petty offences, especially by children, as he saw prison as a place of last resort for serious offenders.
 ==========
-﻿Bobby Owsinski - The Mixing Engineer's Handbook-Cengage Learning PTR (2013) (Owsinski)
-- Your Highlight on Location 557-559 | Added on Monday, January 2, 2023 2:46:12 PM
+﻿Churchill, Walking with destiny (Andrew Roberts)
+- Your Highlight on Location 2883-2889 | Added on Thursday, January 12, 2023 9:22:45 AM
 
-Make sure the frequency balance stays the same at any level. The less the frequency response changes as the level changes (especially when playing softly), the better. In other words, the speaker should have roughly the same frequency balance when the level is quiet as
+Probably under the influence of his reading of Darwin, Churchill was briefly a convinced eugenicist. In October 1910 he noted that there were at least 120,000 ‘feeble-minded people at large in our midst’ in Britain whom he thought should be ‘segregated under proper conditions so that their curse died with them and was not transmitted to future generations’.39 He was interested in the possibility of sterilization, telling Asquith in December that the ‘multiplication of the [mentally] unfit’ constituted ‘a very terrible danger to the race’.40 He saw sterilization as a liberating measure that would protect the feeble-minded from incarceration, but it was never introduced in Britain.
 ==========
-﻿Bobby Owsinski - The Mixing Engineer's Handbook-Cengage Learning PTR (2013) (Owsinski)
-- Your Highlight on Location 589-590 | Added on Monday, January 2, 2023 2:46:27 PM
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Note on Location 1131 | Added on Thursday, January 12, 2023 11:06:35 PM
 
-That being said, it’s been found that 67 1/2 inches from tweeter to tweeter at the distance of a console meter bridge seems to be an optimum distance between speakers and focuses the speakers just behind your head (which is exactly what you want).
+Effect set up when starting a session
 ==========
-﻿Bobby Owsinski - The Mixing Engineer's Handbook-Cengage Learning PTR (2013) (Owsinski)
-- Your Highlight on Location 603-603 | Added on Monday, January 2, 2023 2:46:45 PM
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 1115-1131 | Added on Thursday, January 12, 2023 11:06:35 PM
 
-Monitors that are mounted directly
+For drums: Use a reverb set to a dark room sound with about 1.5 seconds of decay and a pre-delay of 20 milliseconds.        For all other instruments: Use a plate with about 1.8 seconds of decay and a pre-delay of 20 milliseconds.        For vocals: Use a delay of about 220 milliseconds with two repeats.   These settings work very well together and create a nice blend of ambience without much tweaking. Another common setup uses two reverbs and two delays, which are set like this:        Short reverb: A room program with the decay set from .5 to 1.5 seconds of decay with a short pre-delay timed to the track. (See Chapter 8 for more detail on how to do that.)        Long reverb: A plate or hall program with a decay set from 1.5 to 4 seconds of decay and a pre-delay of as little as 0 or as much as 150 milliseconds timed to the track (depends on your taste and what’s right for the song).        Short delay: A delay of about 50 to 200 milliseconds.        Long delay: A delay from about 200 to 400 milliseconds.
 ==========
-﻿grokking-algorithms-illustrated-programmers-curious (Laura Dauzat)
-- Your Highlight on Location 150-154 | Added on Monday, January 2, 2023 5:15:04 PM
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Note on Location 1339 | Added on Friday, January 13, 2023 7:14:36 AM
 
-The good news is, an implementation of every algorithm in this book is probably available in your favorite language, so you don’t have to write each algorithm yourself! But those implementations are useless if you don’t understand the trade-offs. In this book, you’ll learn to compare trade-offs between different algorithms: Should you use merge sort or quicksort? Should you use an array or a list? Just using a different data structure can make a big difference.
+(before starting the mix…)
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 1337-1339 | Added on Friday, January 13, 2023 7:14:36 AM
+
+Every song has something that’s the main point of interest or something so compelling that you can’t take your ears off it. If it doesn’t, send the song back to the drawing board. It’s not complete.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 1660-1661 | Added on Saturday, January 14, 2023 1:23:51 PM
+
+The center is obvious in that the most prominent music element (like the lead vocal) is usually panned there, but so is the kick drum, bass guitar, and even the snare drum.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2007-2011 | Added on Sunday, January 15, 2023 11:12:36 AM
+
+There are two spots in the frequency spectrum where the subtractive equalization is particularly effective: between 200 Hz and 600 Hz and between 2 kHz and 4 kHz. This is because most directional microphones provide a natural boost at 200 to 600 Hz because of the proximity effect brought about by close-miking, and many mics (especially those known for being good vocal mics) have a presence boost between 2 kHz and 4 kHz. Dipping those frequencies a few dB (more or less as needed) can make the track sound much more natural than if you were to try to add frequencies instead.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2093-2100 | Added on Sunday, January 15, 2023 11:21:55 AM
+
+Easy-to-Remember Golden Rules of Equalization                If it sounds muddy, cut some at 250 Hz.              If it sounds honky, cut some at 500 Hz.              Cut if you’re trying to make things sound better.              Boost if you’re trying to make things sound different.              You can’t boost something that’s not there in the first place.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2133-2133 | Added on Sunday, January 15, 2023 11:24:20 AM
+
+
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Note on Location 2133 | Added on Sunday, January 15, 2023 11:25:31 AM
+
+the frequencies that usually work extremely well with the instruments
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2144-2147 | Added on Sunday, January 15, 2023 11:44:42 AM
+
+EQ the kick drum between 60 and 120 Hz, as this will allow it to be heard on smaller speakers. For more attack and beater click, add between 1 kHz and 4 kHz. You may also want to dip out some of the boxiness that lives between 200 and 600 Hz. EQing in the 30- to 60-Hz range will produce a kick that you can feel if your speakers are large enough, but that can also make it sound thin on smaller speakers and probably won’t translate well to a variety of speaker systems. Most 22-inch kick drums like to center somewhere around 80 Hz, for instance.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2148-2157 | Added on Sunday, January 15, 2023 11:46:48 AM
+
+Bring up the bass with the kick. The kick and bass should occupy slightly different frequency spaces. The kick will usually be in the 60- to 80-Hz range, whereas the bass will emphasize higher frequencies anywhere from 80 to 250 (although sometimes the two are reversed depending upon the song). Before you continue to EQ at other frequencies, try filtering out any unnecessary bass frequencies (below 30 Hz on kick and 50 Hz on the bass, although it varies according to style and taste) so the kick and bass are not boomy or muddy. There should be a driving, foundational quality to the combination of these two together.           A common mistake is to emphasize the kick with either too much level or too much EQ and not enough on the bass guitar. This gives you the illusion that your mix is bottom-light, because what you’re doing is effectively shortening the duration of the low-frequency envelope in your mix. Since the kick tends to be more transitory than the bass guitar, this gives you the idea that the low-frequency content of your mix is inconsistent. For pop music, it’s best to have the kick provide the percussive nature of the bottom while the bass fills out the sustain and musical parts.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2158-2159 | Added on Sunday, January 15, 2023 11:47:03 AM
+
+Make sure the snare is strong; otherwise, the song will lose its drive when everything else is added in. This usually calls for at least some compression
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2170-2173 | Added on Sunday, January 15, 2023 11:48:58 AM
+
+For dance music, be aware of kick drum to bass melody dissonance. The bass line is very important and needs to work very well with the kick drum when it’s reproduced over the huge sound systems commonly found in today’s clubs. If your kick has a center frequency of an A note and the bass line is tuned to A#, they’re going to clash. Tune your kick samples to the bass lines (or vice versa) where needed.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2188-2188 | Added on Sunday, January 15, 2023 11:50:00 AM
+
+If you want a sound to stick out of the mix, roll off the bottom; if you want it to blend in, roll off the top.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2186-2186 | Added on Sunday, January 15, 2023 11:50:12 AM
+
+Use a narrow Q
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2233-2235 | Added on Sunday, January 15, 2023 11:54:46 AM
+
+Muddy bass can mean a lot of things, but at a minimum it usually involves a lack of presence of the higher harmonics. Most bass tracks have a sweet spot between 600 Hz and 1.2 kHz where the upper-order harmonics sing, and this is the place to boost for more presence in the mix.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2243-2247 | Added on Sunday, January 15, 2023 11:56:35 AM
+
+Any instrument with low-frequency content (below 500 Hz) can affect the sound of the bass. This includes kick, keyboards, (male) vocals, double bass, celli, low-tuned guitars, and so on. Cut the low end (anywhere below 80 to120 Hz) from tracks where the low end isn’t needed. This will help those tracks to cut through while leaving more space in the mix for the bass and the kick.        Removing
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2256-2257 | Added on Sunday, January 15, 2023 11:59:33 AM
+
+With hip-hop and electronic music, the bass tends to contain a lot of information in the 30- to 60-Hz range that you can feel. Many hip-hop or EDM records will raise the low-frequency target area slightly higher to the 70- to 100-Hz
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2270-2273 | Added on Tuesday, January 24, 2023 1:18:13 PM
+
+For Guitars      For a fatter-sounding guitar, boost the midrange about 9 dB or so and sweep the frequencies until you hear the range where the guitar sounds thick but still bright enough to cut through the mix. Back the boost down to about the point where the guitar cuts through the mix without being too full-sounding.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2279-2280 | Added on Tuesday, January 24, 2023 1:19:36 PM
+
+Boosting 5 to 8 kHz will allow the guitar to better cut through the mix. Boosting 1 to 5 kHz will give the guitar more presence.
+==========
+﻿The Recording Engineer's Handbook (Bobby Owsinski)
+- Your Highlight on Location 2284-2287 | Added on Tuesday, January 24, 2023 1:20:26 PM
+
+For Vocals      Boost a little 125 to 250 Hz to accentuate the voice fundamental and make it more “chesty” sounding.        2 to 4 kHz accentuates the consonants and makes the vocal seem closer to the listener.
+==========
+﻿Harry Potter and the goblet of fire (J. K. Rowling)
+- Your Highlight on Location 3222-3223 | Added on Thursday, February 2, 2023 9:37:48 AM
+
+with Karkaroff, and the other Durmstrang students were straggling
+==========
+﻿The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 136-137 | Added on Sunday, March 5, 2023 8:26:47 AM
+
+I love Voltaire’s observation that “History never repeats itself; man always does.” It applies so well to how we behave with money.
+==========
+﻿The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 411-415 | Added on Monday, March 6, 2023 9:54:00 AM
+
+Some people are born into families that encourage education; others are against it. Some are born into flourishing economies encouraging of entrepreneurship; others are born into war and destitution. I want you to be successful, and I want you to earn it. But realize that not all success is due to hard work, and not all poverty is due to laziness. Keep this in mind when judging people, including yourself. Therefore, focus less on specific individuals and case studies and more on broad patterns.
+==========
+24 Must-Reads To Boost Your Productivity (Unknown Author)
+- Your Highlight on page 7-7 | Added on Tuesday, March 28, 2023 8:03:53 AM
+
+Like our muscles, we can also develop our willpower. Just as a bodybuilder takes the pain to bulk up and then maintain it, it is also possible to nurture self-discipline. Once we get to this level, it becomes easier to take on early morning productive activities since they are now part of our habits. More so, accomplishing them will no more require a strain on our willpower.
+==========
+24 Must-Reads To Boost Your Productivity (Unknown Author)
+- Your Highlight on page 8-8 | Added on Thursday, March 30, 2023 3:43:10 PM
+
+Some tasks are obligatory, but they don’t add overall value to your day or life. Home chores, laundry, mowing the lawn are things that can easily divert your attention from what matters to you. These tasks feel urgent, and so you postpone the important but not so urgent task.
+==========
+24 Must-Reads To Boost Your Productivity (Unknown Author)
+- Your Highlight on page 8-8 | Added on Thursday, March 30, 2023 3:44:05 PM
+
+Worthwhile to do in the morning are career development, self-care, and family nurturing activities.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 440-441 | Added on Wednesday, June 21, 2023 6:21:29 PM
+
+“Yes, but I have something he will never have … enough.”
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Note on Location 440 | Added on Wednesday, June 21, 2023 6:22:11 PM
+
+We need to stop always chasing more to be ok with our bank account
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 492-493 | Added on Wednesday, June 21, 2023 6:33:38 PM
+
+There is no reason to risk what you have and need for what you don’t have and don’t need.
+==========
+The Boy, The Mole, The Fox and The Horse (Mackesy, Charlie)
+- Your Highlight on page 1 | Location 9-11 | Added on Tuesday, July 4, 2023 3:03:13 AM
+
+THE BOY, THE MOLE, THE FOX AND THE HORSE Charlie Mackery 
+==========
+I Robot (Isaac Asimov)
+- Your Highlight on page 87 | Location 1334-1335 | Added on Wednesday, July 12, 2023 3:09:31 AM
+
+receive and interpret it, a new order came to march in queer
+==========
+Sur la dalle (Fred Vargas)
+- Your Bookmark on page 130 | Location 1981 | Added on Monday, August 14, 2023 11:31:12 AM
+
+
+==========
+Sur la dalle (Fred Vargas)
+- Your Bookmark on page 123 | Location 1881 | Added on Monday, August 14, 2023 11:32:58 AM
+
+
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 673-676 | Added on Monday, September 4, 2023 7:43:49 AM
+
+Getting money requires taking risks, being optimistic, and putting yourself out there. But keeping money requires the opposite of taking risk. It requires humility, and fear that what you’ve made can be taken away from you just as fast. It requires frugality and an acceptance that at least some of what you’ve made is attributable to luck, so past success can’t be relied upon to repeat indefinitely.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Note on Location 723 | Added on Monday, September 4, 2023 8:05:21 AM
+
+Also called 'margin of safety' - mention of Nassim Taleb black swans in this part
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 723-724 | Added on Monday, September 4, 2023 8:05:21 AM
+
+Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 746-747 | Added on Monday, September 4, 2023 8:10:26 AM
+
+The idea that something can gain over the long run while being a basketcase in the short run is not intuitive, but it’s how a lot of things work in life.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 740-741 | Added on Monday, September 4, 2023 8:10:41 AM
+
+A barbelled personality—optimistic about the future, but paranoid about what will prevent you from getting to the future —is vital.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 990-991 | Added on Tuesday, September 5, 2023 7:39:46 AM
+
+More of us have jobs that look closer to Rockefeller than a typical 1950s manufacturing worker, which means our days don’t end when we clock out and leave the factory. We’re constantly working in our heads, which means it feels like work never ends.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1004-1011 | Added on Tuesday, September 5, 2023 7:40:23 AM
+
+In his book 30 Lessons for Living, gerontologist Karl Pillemer interviewed a thousand elderly Americans looking for the most important lessons they learned from decades of life experience. He wrote: No one—not a single person out of a thousand—said that to be happy you should try to work as hard as you can to make money to buy the things you want. No one—not a single person—said it’s important to be at least as wealthy as the people around you, and if you have more than they do it’s real success. No one—not a single person—said you should choose your work based on your desired future earning power. What they did value were things like quality friendships, being part of something bigger than themselves, and spending quality, unstructured time with their children. “Your kids don’t want your money (or what your money buys) anywhere near as much as they want you. Specifically, they want you with them,” Pillemer writes.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1023-1026 | Added on Wednesday, September 6, 2023 7:49:21 AM
+
+“You might think you want an expensive car, a fancy watch, and a huge house. But I’m telling you, you don’t. What you want is respect and admiration from other people, and you think having expensive stuff will bring it. It almost never does— especially from the people you want to respect and admire you.”
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1192-1192 | Added on Thursday, September 7, 2023 5:07:15 PM
+
+Having more control over your time and options is becoming one of the most valuable currencies in the world.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1185-1187 | Added on Thursday, September 7, 2023 5:07:33 PM
+
+In a world where intelligence is hyper-competitive and many previous technical skills have become automated, competitive advantages tilt toward nuanced and soft skills—like communication, empathy, and, perhaps most of all, flexibility.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1236-1238 | Added on Friday, September 8, 2023 7:36:43 AM
+
+Academic finance is devoted to finding the mathematically optimal investment strategies. My own theory is that, in the real world, people do not want the mathematically optimal strategy. They want the strategy that maximizes for how well they sleep at night.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1238-1242 | Added on Friday, September 8, 2023 7:37:04 AM
+
+Harry Markowitz won the Nobel Prize for exploring the mathematical tradeoff between risk and return. He was once asked how he invested his own money, and described his portfolio allocation in the 1950s, when his models were first developed: I visualized my grief if the stock market went way up and I wasn’t in it—or if it went way down and I was completely in it. My intention was to minimize my future regret. So I split my contributions 50/50 between bonds and equities.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1507-1509 | Added on Saturday, September 9, 2023 11:07:17 AM
+
+Bill Gates understood this well. When Microsoft was a young company, he said he “came up with this incredibly conservative approach that I wanted to have enough money in the bank to pay a year’s worth of payroll even if we didn’t get any payments coming in.”
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1511-1514 | Added on Saturday, September 9, 2023 11:08:14 AM
+
+There are a few specific places for investors to think about room for error. One is volatility. Can you survive your assets declining by 30%? On a spreadsheet, maybe yes—in terms of actually paying your bills and staying cash-flow positive. But what about mentally? It is easy to underestimate what a 30% decline does to your psyche.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1534-1537 | Added on Saturday, September 9, 2023 11:13:36 AM
+
+Nassim Taleb says, “You can be risk loving and yet completely averse to ruin.” And indeed, you should. The idea is that you have to take risk to get ahead, but no risk that can wipe you out is ever worth taking. The odds are in your favor when playing Russian roulette. But the downside is not worth the potential upside. There is no margin of safety that can compensate for the risk.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1546-1547 | Added on Saturday, September 9, 2023 11:15:28 AM
+
+To get around this, I think of my own money as barbelled. I take risks with one portion and am terrified with the other.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1577-1579 | Added on Saturday, September 9, 2023 11:20:47 AM
+
+A good rule of thumb for a lot of things in life is that everything that can break will eventually break. So if many things rely on one thing working, and that thing breaks, you are counting the days to catastrophe. That’s a single point of failure.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1582-1584 | Added on Saturday, September 9, 2023 11:21:47 AM
+
+The biggest single point of failure with money is a sole reliance on a paycheck to fund short-term spending needs, with no savings to create a gap between what you think your expenses
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1622-1624 | Added on Sunday, September 10, 2023 8:49:03 AM
+
+The End of History Illusion is what psychologists call the tendency for people to be keenly aware of how much they’ve changed in the past, but to underestimate how much their personalities, desires, and goals are likely to change in the future.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 1665-1671 | Added on Sunday, September 10, 2023 9:00:38 AM
+
+Zweig wrote. He and Kahneman could work endlessly on a chapter, but: The next thing you know, [Kahneman] sends a version so utterly transformed that it is unrecognizable: It begins differently, it ends differently, it incorporates anecdotes and evidence you never would have thought of, it draws on research that you’ve never heard of. “When I asked Danny how he could start again as if we had never written an earlier draft,” Zweig continued, “he said the words I’ve never forgotten: ‘I have no sunk costs.’”⁴⁹ Sunk costs—anchoring decisions to past efforts that can’t be refunded—are a devil in a world where people change over time. They make our future selves prisoners to our past, different, selves. It’s the equivalent of a stranger making major life decisions for you.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 2012-2016 | Added on Tuesday, September 12, 2023 7:19:37 AM
+
+Growth is driven by compounding, which always takes time. Destruction is driven by single points of failure, which can happen in seconds, and loss of confidence, which can happen in an instant. It’s easier to create a narrative around pessimism because the story pieces tend to be fresher and more recent. Optimistic narratives require looking at a long stretch of history and developments, which people tend to forget and take more effort to piece together.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 2173-2175 | Added on Thursday, September 14, 2023 8:06:38 AM
+
+Psychologist Philip Tetlock once wrote: “We need to believe we live in a predictable, controllable world, so we turn to authoritative-sounding people who promise to satisfy that need.”
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 2242-2245 | Added on Monday, September 18, 2023 7:31:50 AM
+
+Go out of your way to find humility when things are going right and forgiveness/compassion when they go wrong. Because it’s never as good or as bad as it looks. The world is big and complex. Luck and risk are both real and hard to identify. Do so when judging both yourself and others.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 2246-2248 | Added on Monday, September 18, 2023 7:32:11 AM
+
+Respect the power of luck and risk and you’ll have a better chance of focusing on things you can actually control. You’ll also have a better chance of finding the right role models.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 2263-2265 | Added on Monday, September 18, 2023 7:38:46 AM
+
+Become OK with a lot of things going wrong. You can be wrong half the time and still make a fortune, because a small minority of things account for the majority of outcomes. No matter what you’re doing with your money you should be comfortable with a lot of stuff not working.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 2284-2286 | Added on Monday, September 18, 2023 7:40:56 AM
+
+Define the cost of success and be ready to pay it. Because nothing worthwhile is free. And remember that most financial costs don’t have visible price tags.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 2289-2291 | Added on Monday, September 18, 2023 7:41:25 AM
+
+Worship room for error. A gap between what could happen in the future and what you need to happen in the future in order to do well is what gives you endurance, and endurance is what makes compounding magic over time.
+==========
+The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Morgan Housel)
+- Your Highlight on Location 2604-2604 | Added on Friday, September 22, 2023 7:21:33 AM
+
+Keeping Up With The Joneses effect.
+==========
+Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)
+- Your Highlight on Location 3546-3608 | Added on Saturday, January 14, 2023 11:43:46 PM
+
+Little Lessons from the Four Laws IN THIS BOOK, I have introduced a four-step model for human behavior: cue, craving, response, reward. This framework not only teaches us how to create new habits but also reveals some interesting insights about human behavior. Problem phase 1. Cue 2. Craving Solution phase 3. Response 4. Reward In this section, I have compiled some lessons (and a few bits of common sense) that are confirmed by the model. The purpose of these examples is to clarify just how useful and wide-ranging this framework is when describing human behavior. Once you understand the model, you’ll see examples of it everywhere. Awareness comes before desire. A craving is created when you assign meaning to a cue. Your brain constructs an emotion or feeling to describe your current situation, and that means a craving can only occur after you have noticed an opportunity. Happiness is simply the absence of desire. When you observe a cue, but do not desire to change your state, you are content with the current situation. Happiness is not about the achievement of pleasure (which is joy or satisfaction), but about the lack of desire. It arrives when you have no urge to feel differently. Happiness is the state you enter when you no longer want to change your state. However, happiness is fleeting because a new desire always comes along. As Caed Budris says, “Happiness is the space between one desire being fulfilled and a new desire forming.” Likewise, suffering is the space between craving a change in state and getting it. It is the idea of pleasure that we chase. We seek the image of pleasure that we generate in our minds. At the time of action, we do not know what it will be like to attain that image (or even if it will satisfy us). The feeling of satisfaction only comes afterward. This is what the Austrian neurologist Victor Frankl meant when he said that happiness cannot be pursued, it must ensue. Desire is pursued. Pleasure ensues from action. Peace occurs when you don’t turn your observations into problems. The first step in any behavior is observation. You notice a cue, a bit of information, an event. If you do not desire to act on what you observe, then you are at peace. Craving is about wanting to fix everything. Observation without craving is the realization that you do not need to fix anything. Your desires are not running rampant. You do not crave a change in state. Your mind does not generate a problem for you to solve. You’re simply observing and existing. With a big enough why you can overcome any how. Friedrich Nietzsche, the German philosopher and poet, famously wrote, “He who has a why to live for can bear almost any how.” This phrase harbors an important truth about human behavior. If your motivation and desire are great enough (that is, why are you are acting), you’ll take action even when it is quite difficult. Great craving can power great action—even when friction is high. Being curious is better than being smart. Being motivated and curious counts for more than being smart because it leads to action. Being smart will never deliver results on its own because it doesn’t get you to act. It is desire, not intelligence, that prompts behavior. As Naval Ravikant says, “The trick to doing anything is first cultivating a desire for it.” Emotions drive behavior. Every decision is an emotional decision at some level. Whatever your logical reasons are for taking action, you only feel compelled to act on them because of emotion. In fact, people with damage to emotional centers of the brain can list many reasons for taking action but still will not act because they do not have emotions to drive them. This is why craving comes before response. The feeling comes first, and then the behavior. We can only be rational and logical after we have been emotional. The primary mode of the brain is to feel; the secondary mode is to think. Our first response—the fast, nonconscious portion of the brain—is optimized for feeling and anticipating. Our second response—the slow, conscious portion of the brain—is the part that does the “thinking.” Psychologists refer to this as System 1 (feelings and rapid judgments) versus System 2 (rational analysis). The feeling comes first (System 1); the rationality only intervenes later (System 2). This works great when the two are aligned, but it results in illogical and emotional thinking when they are not. Your response tends to follow your emotions. Our thoughts and actions are rooted in what we find attractive, not necessarily in what is logical. Two people can notice the same set of facts and respond very differently because they run those facts through their unique emotional filter. This is one reason why appealing to emotion is typically more powerful than appealing to reason. If a topic makes someone feel emotional, they will rarely be interested in the data. This is why emotions can be such a threat to wise decision making. Put another way: most people believe that the reasonable response is the one that benefits them: the one that satisfies their desires. To approach a situation from a more neutral emotional position allows you to base your response on the data rather than the emotion. Suffering drives progress. The source of all suffering is the desire for a change in state. This is also the source of all progress. The desire to change your state is what powers you to take action. It is wanting more that pushes humanity to seek improvements, develop new technologies, and reach for a higher level. With craving, we are dissatisfied but driven. Without craving, we are satisfied but lack ambition. Your actions reveal how badly you want something. If you keep saying something is a priority but you never act on it, then you don’t really want it. It’s time to have an honest conversation with yourself. Your actions reveal your true motivations. Reward is on the other side of sacrifice. Response (sacrifice of energy) always precedes reward (the collection of resources). The “runner’s high” only comes after the hard run. The reward only comes after the energy is spent. Self-control is difficult because it is not satisfying. A reward is an outcome that satisfies your craving. This makes self-control ineffective because inhibiting our desires does not usually resolve them. Resisting temptation does not satisfy your craving; it just ignores it. It creates space for the craving to pass. Self-control requires you to release a desire rather than satisfy it.
+==========
+﻿Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)
+- Your Highlight on Location 3608-3640 | Added on Saturday, January 14, 2023 11:45:27 PM
+
+Our expectations determine our satisfaction. The gap between our cravings and our rewards determines how satisfied we feel after taking action. If the mismatch between expectations and outcomes is positive (surprise and delight), then we are more likely to repeat a behavior in the future. If the mismatch is negative (disappointment and frustration), then we are less likely to do so. For example, if you expect to get $10 and get $100, you feel great. If you expect to get $100 and get $10, you feel disappointed. Your expectation changes your satisfaction. An average experience preceded by high expectations is a disappointment. An average experience preceded by low expectations is a delight. When liking and wanting are approximately the same, you feel satisfied. Satisfaction = Liking – Wanting This is the wisdom behind Seneca’s famous quote, “Being poor is not having too little, it is wanting more.” If your wants outpace your likes, you’ll always be unsatisfied. You’re perpetually putting more weight on the problem than the solution. Happiness is relative. When I first began sharing my writing publicly it took me three months to get one thousand subscribers. When I hit that milestone, I told my parents and my girlfriend. We celebrated. I felt excited and motivated. A few years later, I realized that one thousand people were signing up each day. And yet I didn’t even think to tell anyone. It felt normal. I was getting results ninety times faster than before but experiencing little pleasure over it. It wasn’t until a few days later that I realized how absurd it was that I wasn’t celebrating something that would have seemed like a pipe dream just a few years before. The pain of failure correlates to the height of expectation. When desire is high, it hurts to not like the outcome. Failing to attain something you want hurts more than failing to attain something you didn’t think much about in the first place. This is why people say, “I don’t want to get my hopes up.” Feelings come both before and after the behavior. Before acting, there is a feeling that motivates you to act—the craving. After acting, there is a feeling that teaches you to repeat the action in the future—the reward. Cue > Craving (Feeling) > Response > Reward (Feeling) How we feel influences how we act, and how we act influences how we feel. Desire initiates. Pleasure sustains. Wanting and liking are the two drivers of behavior. If it’s not desirable, you have no reason to do it. Desire and craving are what initiate a behavior. But if it’s not enjoyable, you have no reason to repeat it. Pleasure and satisfaction are what sustain a behavior. Feeling motivated gets you to act. Feeling successful gets you to repeat. Hope declines with experience and is replaced by acceptance. The first time an opportunity arises, there is hope of what could be. Your expectation (cravings) is based solely on promise. The second time around, your expectation is grounded in reality. You begin to understand how the process works and your hope is gradually traded for a more accurate prediction and acceptance of the likely outcome. This is one reason why we continually grasp for the latest get-rich-quick or weight-loss scheme. New plans offer hope because we don’t have any experiences to ground our expectations. New strategies seem more appealing than old ones because they can have unbounded hope. As Aristotle noted, “Youth is easily deceived because it is quick to hope.” Perhaps this can be revised to “Youth is easily deceived because it only hopes.” There is no experience to root the expectation in. In the beginning, hope is all you have.
 ==========
